@@ -6,7 +6,8 @@ This documentation serves to describe the design and the implementation of the "
 1. [Project Overview](docs/project_overview.md)
 2. [Getting Started](docs/getting_started.md)
 3. [System Design](docs/system_design.md)
-4. [Development Convention](docs/development_convention.md)
+4. [Methodology](docs/methodology.md)
+5. [Development Convention](docs/development_convention.md)
 
 ---
 
